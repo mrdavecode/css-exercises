@@ -1,0 +1,15 @@
+.element-1
+.element-2 {
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif, 'Times New Roman', Times, serif;
+}
+
+.element-1 {
+    color: #ffff;
+    background-color: #000000;
+    font-weight: bold;
+}
+
+.element-2 {
+    background-color: #ffff00;
+}
